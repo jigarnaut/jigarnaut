@@ -2,8 +2,6 @@
 
 I'm **Jigar**, also known as **Jigarnaut**. I'm an experienced Software Engineer with over 7 years of experience in designing and developing highly scalable software products for enterprise ecosystems.
 
-![Profile Image](URL_TO_YOUR_PROFILE_IMAGE)
-
 ## 🚀 About Me
 - 💼 Currently working at [Your Company/Organization Name](URL_TO_YOUR_COMPANY)
 - 🌍 Based in **India**
